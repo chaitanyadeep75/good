@@ -1,0 +1,9 @@
+1610695029821	geckodriver	INFO	Listening on 127.0.0.1:54725
+1610695032841	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofile0zb2m1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610695039127	Marionette	INFO	Listening on port 54733
+1610695039632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610695039686	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: Property 'handleEvent' is not callable.
+1610695468134	Marionette	INFO	Stopped listening on port 54733

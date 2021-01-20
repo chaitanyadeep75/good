@@ -1,0 +1,290 @@
+1610689836291	geckodriver	INFO	Listening on 127.0.0.1:54370
+1610689839313	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileGAuTEL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610689844174	Marionette	INFO	Listening on port 54379
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610689844579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610689844624	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: https://www.static-jcpenney.com/prod4/yoda-site-components/2018.0.18/dll/site_components.client.dll.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.static-jcpenney.com/prod4/yoda-assets/vendor/target.js, line 61: Error: Errors: field - [visitorId] - one or more customer Ids in the request are invalid. Null or empty values are not allowed for customer id, integrationCode or authenticatedState.;
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 2440, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2440, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":488,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1838","resource:///modules/BrowserGlue.jsm:BG_observe:1002","chrome://browser/content/browser.js:_delayedStartup:2132"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1610690236239	Marionette	INFO	Stopped listening on port 54379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

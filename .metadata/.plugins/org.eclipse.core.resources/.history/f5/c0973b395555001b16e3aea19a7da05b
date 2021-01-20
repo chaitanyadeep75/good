@@ -1,0 +1,11 @@
+*** Settings ***
+Library    OperatingSystem        
+Library    SeleniumLibrary    
+
+
+*** Test Cases ***
+TC1_ValidCredential
+     Log To Console    ${OUTPUT_DIR}    
+     Append To Environment Variable    Path    C:\\robot
+     Open Browser    url=https://magento.com/    browser=ff
+            

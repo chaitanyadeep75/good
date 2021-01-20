@@ -1,0 +1,15 @@
+1610519446894	geckodriver	INFO	Listening on 127.0.0.1:52125
+1610519449854	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileJG06zR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610519459604	Marionette	INFO	Listening on port 52133
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610519460211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610519460326	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: http://demo.openemr.io/b/openemr/interface/main/messages/messages.php?form_active=1, line 744: unreachable code after return statement
+1610520562450	Marionette	INFO	Stopped listening on port 52133
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+

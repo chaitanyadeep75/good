@@ -1,0 +1,102 @@
+1610531954629	geckodriver	INFO	Listening on 127.0.0.1:55459
+1610531957665	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofilee2HDqC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610531962009	Marionette	INFO	Listening on port 55469
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610531962409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610531962459	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/qc5B-qjP0QEimFYUxcpWJy5B/recaptcha__en.js, line 317: Error: reCAPTCHA placeholder element must be an element or id
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.redbus.in"
+JavaScript error: https://www.gstatic.com/recaptcha/releases/qc5B-qjP0QEimFYUxcpWJy5B/recaptcha__en.js, line 317: Error: reCAPTCHA placeholder element must be an element or id
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: GFX: D3D11 skip BeginFrame with device-removed.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:91:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:603:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1610536874481	Marionette	INFO	Stopped listening on port 55469

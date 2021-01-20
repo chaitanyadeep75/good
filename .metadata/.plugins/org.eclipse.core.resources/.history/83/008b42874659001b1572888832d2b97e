@@ -1,0 +1,17 @@
+*** Settings ***
+Library    OperatingSystem    
+Library    SeleniumLibrary    
+Library    OperatingSystem    
+*** Test Cases ***
+TC1_GetWebElementsTest
+    Append To Environment Variable     path     ${OUTPUT_DIR}${/}driver
+    Open Browser     url=http://google.com/     browser=ff
+    Maximize Browser Window
+    Set Selenium Implicit Wait    30s
+    ${listOfElements}     Get WebElements     //a
+    ${text0}     Get Text     ${listOfElements}
+    Log To Console    ${text0}
+    
+    FOR ${i}     in range 1     11
+    Log To Console    ${i}
+    END

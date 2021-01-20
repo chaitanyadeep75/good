@@ -1,0 +1,19 @@
+1610513940979	geckodriver	INFO	Listening on 127.0.0.1:50297
+1610513944002	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileTxIh5A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610513948465	Marionette	INFO	Listening on port 50305
+1610513948804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610513948874	Marionette	ERROR	[21] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://magento.com/ line 1551 > injectedScript, line 4: TypeError: window.optimizely is undefined
+1610513964740	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.266811655.80128975.1610513952-438244674.1610513952, line 407: SyntaxError: redeclaration of const ssoEmailDomains
+[Child 8384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1610516759176	Marionette	INFO	Stopped listening on port 50305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

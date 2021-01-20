@@ -1,0 +1,14 @@
+1610685031078	geckodriver	INFO	Listening on 127.0.0.1:63903
+1610685033511	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileuXqe89"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1610685057482	Marionette	INFO	Listening on port 63912
+1610685057812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610685057905	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1642: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1642: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1642: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1642: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://browser/content/browser.js, line 7875: uncaught exception: undefined
+1610686221786	Marionette	INFO	Stopped listening on port 63912

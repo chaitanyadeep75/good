@@ -1,0 +1,7 @@
+1610709593322	geckodriver	INFO	Listening on 127.0.0.1:49747
+1610709596278	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofile5T4Dpa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610709601133	Marionette	INFO	Listening on port 49756
+1610709601705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610709601728	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))

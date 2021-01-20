@@ -1,0 +1,110 @@
+{
+  "id": "6ea71cf5-73ff-4e5f-b994-bc881a0eb21f",
+  "version": "2.0",
+  "name": "MyFirstPro",
+  "url": "https://magento.com",
+  "tests": [{
+    "id": "3a693e53-b939-41b7-ac7c-8f2fa4bec747",
+    "name": "tc1_validcredentials",
+    "commands": [{
+      "id": "b6e3387f-975b-4eb9-a747-2543de90c002",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ed347e00-05d1-4dac-a13b-377ac9c2950e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1315x785",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "46565c26-a2c5-4410-8c63-c8f2af58ebcb",
+      "comment": "",
+      "command": "click",
+      "target": "css=.account-icon",
+      "targets": [
+        ["css=.account-icon", "css:finder"],
+        ["xpath=//nav[@id='block-header']/ul/li[9]/a/span/div", "xpath:idRelative"],
+        ["xpath=//li[9]/a/span/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1cb4b9bb-18d4-4e98-afda-978ca4c01f08",
+      "comment": "",
+      "command": "click",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["name=login[username]", "name"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//form[@id='login-form']/fieldset/div/div/input", "xpath:idRelative"],
+        ["xpath=//fieldset/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9ad0128a-b659-45b1-acb1-fd2c90d0f687",
+      "comment": "",
+      "command": "type",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["name=login[username]", "name"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//form[@id='login-form']/fieldset/div/div/input", "xpath:idRelative"],
+        ["xpath=//fieldset/div/div/input", "xpath:position"]
+      ],
+      "value": "balaji0017@gmail.com"
+    }, {
+      "id": "c72f1b65-26b5-4ff7-9b16-74244dac46cc",
+      "comment": "",
+      "command": "click",
+      "target": "id=pass",
+      "targets": [
+        ["id=pass", "id"],
+        ["name=login[password]", "name"],
+        ["css=.spectrum-Form-item #pass", "css:finder"],
+        ["xpath=//input[@id='pass']", "xpath:attributes"],
+        ["xpath=//form[@id='login-form']/fieldset/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//fieldset/div[2]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6048b7a1-9b2c-4fab-a182-c8932a51bad3",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "My Account",
+      "targets": [],
+      "value": "welcome@12345"
+    }, {
+      "id": "0f0f727e-4a24-4141-a1cc-c424727b9f29",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Log Out",
+      "targets": [
+        ["linkText=Log Out", "linkText"],
+        ["css=a:nth-child(3)", "css:finder"],
+        ["xpath=//a[contains(text(),'Log Out')]", "xpath:link"],
+        ["xpath=//main[@id='maincontent']/div/div/div/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://account.magento.com/customer/account/logout/')]", "xpath:href"],
+        ["xpath=//div/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Log Out')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "17785df5-b11b-4d0f-a47a-c802411e3397",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["3a693e53-b939-41b7-ac7c-8f2fa4bec747"]
+  }],
+  "urls": ["https://magento.com/"],
+  "plugins": []
+}

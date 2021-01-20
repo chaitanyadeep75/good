@@ -1,0 +1,23 @@
+*** Settings ***
+Library    OperatingSystem    
+Library    SeleniumLibrary    
+Library    OperatingSystem    
+*** Test Cases ***
+TC1_ValidCredentialTest
+        
+     Append To Environment Variable    Path   ${OUTPUT_DIR}${/}driver  
+     Open Browser    https://www.jcpenney.com/    browser=ff
+     Maximize Browser Window  
+     Set Selenium Implicit Wait    30s 
+     Click Element        id=searchInputId
+     Input Text        id=searchInputId    Acdc Mens Crew Neck Short Sleeve Graphic T-shirt    
+     Click Element         //button[@title='search']
+     ${actual}     get Title
+     Log To Console    ${actual}   
+     log  ${actual}
+     ${currenturl}     Get Location
+     Log To Console     ${currenturl}
+     log  ${currenturl}         
+     Click Element      //button[text()='large'] 
+     Select From List By Label        name="quantity"    2
+     Click Element     //button[text()='Add to Cart']

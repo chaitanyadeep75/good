@@ -1,0 +1,16 @@
+1610700326923	geckodriver	INFO	Listening on 127.0.0.1:59599
+1610700329863	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileifp16G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610700339443	Marionette	INFO	Listening on port 59608
+1610700339937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610700339961	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1610700348692	Marionette	ERROR	[38] No reply from Marionette:Register
+1610702727560	Marionette	INFO	Stopped listening on port 59608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+

@@ -1,0 +1,10 @@
+1610695290884	geckodriver	INFO	Listening on 127.0.0.1:55111
+1610695293278	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileHjGDgz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 773))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1610695322526	Marionette	INFO	Listening on port 55120
+1610695323052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610695323097	Marionette	ERROR	[21] No reply from Marionette:Register
+JavaScript error: , line 0: TypeError: Property 'handleEvent' is not callable.
+1610695466453	Marionette	INFO	Stopped listening on port 55120

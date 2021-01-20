@@ -1,0 +1,46 @@
+1610513289676	geckodriver	INFO	Listening on 127.0.0.1:49970
+1610513292682	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofilerkwcPf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610513299275	Marionette	INFO	Listening on port 49978
+1610513299421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610513299524	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://magento.com/ line 1551 > injectedScript, line 4: TypeError: window.optimizely is undefined
+1610513315160	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/videoThumbnail.js, line 229: TypeError: _this3.engine is undefined
+JavaScript error: https://fast.wistia.com/assets/external/videoThumbnail.js, line 229: TypeError: _this3.engine is undefined
+JavaScript error: https://fast.wistia.com/assets/external/videoThumbnail.js, line 229: TypeError: _this3.engine is undefined
+JavaScript error: https://fast.wistia.com/assets/external/videoThumbnail.js, line 229: TypeError: _this3.engine is undefined
+JavaScript error: https://fast.wistia.com/assets/external/videoThumbnail.js, line 229: TypeError: _this3.engine is undefined
+JavaScript error: https://fast.wistia.com/assets/external/videoThumbnail.js, line 229: TypeError: _this3.engine is undefined
+JavaScript error: https://fast.wistia.com/assets/external/videoThumbnail.js, line 229: TypeError: _this3.engine is undefined
+JavaScript error: https://fast.wistia.com/assets/external/videoThumbnail.js, line 229: TypeError: _this3.engine is undefined
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.205616538.861827305.1610513304-1652386463.1610513304, line 407: SyntaxError: redeclaration of const ssoEmailDomains
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1610516761759	Marionette	INFO	Stopped listening on port 49978
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,27 @@
+1610541636297	geckodriver	INFO	Listening on 127.0.0.1:61399
+1610541639315	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileKvtLHM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610541643767	Marionette	INFO	Listening on port 61407
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610541644072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610541644111	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: https://www.medibuddy.in/assets/external/vue-runtime.min.js, line 1: TypeError: (new Set(...)) is not iterable
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1610541658914	Marionette	ERROR	[36] No reply from Marionette:Register
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015F,name=PContent::Msg_CommitWindowContextTransaction) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"

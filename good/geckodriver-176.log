@@ -1,0 +1,73 @@
+1610948613226	geckodriver	INFO	Listening on 127.0.0.1:51363
+1610948616163	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileSHGwTP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610948622159	Marionette	INFO	Listening on port 51371
+1610948622420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610948622504	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: https://www.phptravels.net/home, line 25: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.phptravels.net/home, line 1018: SyntaxError: missing ) after argument list
+JavaScript warning: https://www.phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://www.phptravels.net/home, line 3927: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/home, line 4033: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/home, line 4058: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/home, line 4083: ReferenceError: fmt is not defined
+JavaScript error: https://cdn.livechatinc.com/tracking.js, line 1: Error: License expired
+1610948631102	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610948635002	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 25: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/plugins/infobox.js line 8 > eval, line 1: ReferenceError: google is not defined
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4444: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4550: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4575: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4600: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/custom-detail-map.js, line 8: ReferenceError: google is not defined
+JavaScript error: https://cdn.livechatinc.com/tracking.js, line 1: Error: License expired
+JavaScript error: https://www.phptravels.net/flights/book, line 25: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/plugins/infobox.js line 8 > eval, line 1: ReferenceError: google is not defined
+JavaScript error: https://www.phptravels.net/flights/book, line 1356: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/flights/book, line 1461: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/flights/book, line 1486: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/flights/book, line 1511: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/custom-detail-map.js, line 8: ReferenceError: google is not defined
+JavaScript error: https://cdn.livechatinc.com/tracking.js, line 1: Error: License expired
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 25: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/plugins/infobox.js line 8 > eval, line 1: ReferenceError: google is not defined
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4460: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4566: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4591: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4616: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/custom-detail-map.js, line 8: ReferenceError: google is not defined
+JavaScript error: https://cdn.livechatinc.com/tracking.js, line 1: Error: License expired
+JavaScript error: https://www.phptravels.net/home, line 25: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.phptravels.net/home, line 1018: SyntaxError: missing ) after argument list
+JavaScript error: https://www.phptravels.net/home, line 3927: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/home, line 4033: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/home, line 4058: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/home, line 4083: ReferenceError: fmt is not defined
+JavaScript error: https://cdn.livechatinc.com/tracking.js, line 1: Error: License expired
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 25: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/plugins/infobox.js line 8 > eval, line 1: ReferenceError: google is not defined
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4460: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4566: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4591: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/flights/search/EWR/DXB/oneway/economy/2021-01-28/5/2/1, line 4616: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/custom-detail-map.js, line 8: ReferenceError: google is not defined
+JavaScript error: https://cdn.livechatinc.com/tracking.js, line 1: Error: License expired
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:91:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:603:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1610961463759	Marionette	INFO	Stopped listening on port 51371
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+

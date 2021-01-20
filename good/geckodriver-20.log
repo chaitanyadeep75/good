@@ -1,0 +1,41 @@
+1610516255271	geckodriver	INFO	Listening on 127.0.0.1:50918
+1610516258396	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileQvqvQ2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610516271823	Marionette	INFO	Listening on port 50926
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610516272507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610516272634	Marionette	ERROR	[17] No reply from Marionette:Register
+1610516283963	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://magento.com/ line 1551 > injectedScript, line 4: TypeError: window.optimizely is undefined
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.22779195.101989732.1610516276-1692111223.1610516276, line 407: SyntaxError: redeclaration of const ssoEmailDomains
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Company/js/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/layout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/core/renderer/types
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_CompanyCredit/js/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/Magento_Customer/js/customer-data.js, line 95: Error: [object Object]
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/Magento_Banner/js/model/banner.js, line 74: Error: [object Object]
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: MSP_ReCaptcha/js/ui-messages-mixin
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/element/links
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/customer/account/login/, line 407: SyntaxError: redeclaration of const ssoEmailDomains
+1610516758814	Marionette	INFO	Stopped listening on port 50926

@@ -1,0 +1,11 @@
+*** Settings ***
+Library    OperatingSystem    
+Library    SeleniumLibrary    
+*** Test Cases ***
+TC1_ValidCredentialTest
+     Log To Console    ${OUTPUT_DIR}${/}driver    
+     Append To Environment Variable    Path   ${OUTPUT_DIR}${/}driver  
+     Open Browser    https://www.redbus.in/   browser=ff
+     Maximize Browser Window   
+     Mouse Over    //span[@id="signin-block"]
+     Click Element    //li[text()='Sign In/Sign Up']  

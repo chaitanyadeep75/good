@@ -1,0 +1,14 @@
+1610538194671	geckodriver	INFO	Listening on 127.0.0.1:58857
+1610538197581	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileg5dmGk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610538204322	Marionette	INFO	Listening on port 58866
+1610538204442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610538204730	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: https://medibuddy.in/assets/external/vue-runtime.min.js, line 1: TypeError: (new Set(...)) is not iterable
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1610539136265	Marionette	INFO	Stopped listening on port 58866
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

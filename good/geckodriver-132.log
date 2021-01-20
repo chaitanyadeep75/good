@@ -1,0 +1,15 @@
+1610701484503	geckodriver	INFO	Listening on 127.0.0.1:60754
+1610701487373	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileRayUST"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610701501151	Marionette	INFO	Listening on port 60763
+1610701501553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610701501646	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1610701510852	Marionette	ERROR	[38] No reply from Marionette:Register
+[Parent 5924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1610703127107	Marionette	INFO	Stopped listening on port 60763
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+

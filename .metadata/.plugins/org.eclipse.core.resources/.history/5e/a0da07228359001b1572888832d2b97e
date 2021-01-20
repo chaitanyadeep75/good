@@ -1,0 +1,13 @@
+*** Settings ***
+Documentation     this file contains browser activity keywords
+Library    OperatingSystem    
+Library    SeleniumLibrary    
+Resource    ../Resource/common_functionality.resource
+*** Keywords ***
+Launch Browser
+     Log To Console    ${OUTPUT_DIR}${/}driver    
+     Append To Environment Variable    Path   ${OUTPUT_DIR}${/}driver  
+     
+     Maximize Browser Window   
+     Set Selenium Implicit Wait    30s
+     Open Browser    http://demo.openemr.io/b/openemr/interface/login/login.php?site=default   browser=ff

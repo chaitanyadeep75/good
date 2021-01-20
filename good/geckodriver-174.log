@@ -1,0 +1,36 @@
+1610945381897	geckodriver	INFO	Listening on 127.0.0.1:50960
+1610945384824	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileG81daf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610945389978	Marionette	INFO	Listening on port 50968
+1610945390077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610945390114	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.phptravels.net/home, line 25: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.phptravels.net/home, line 1018: SyntaxError: missing ) after argument list
+JavaScript warning: https://www.phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://www.phptravels.net/home, line 3927: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/home, line 4033: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/home, line 4058: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/home, line 4083: ReferenceError: fmt is not defined
+JavaScript error: https://cdn.livechatinc.com/tracking.js, line 1: Error: License expired
+1610945398551	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610945402602	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.phptravels.net"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.phptravels.net"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.phptravels.net"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn1.child3/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:91:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:603:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+1610961460573	Marionette	INFO	Stopped listening on port 50968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

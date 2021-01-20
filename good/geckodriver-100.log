@@ -1,0 +1,28 @@
+1610689961925	geckodriver	INFO	Listening on 127.0.0.1:54761
+1610689964841	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileGCqaeN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610689977122	Marionette	INFO	Listening on port 54770
+1610689977618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610689977839	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: https://www.static-jcpenney.com/prod4/yoda-site-components/2018.0.18/dll/site_components.client.dll.js, line 1: TypeError: e is undefined
+1610690004496	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+c@https://cdn.quantummetric.com/qscripts/quantum-jcp.js:171:210
+send@https://code.jquery.com/jquery-3.4.1.min.js:2:81476
+ajax@https://code.jquery.com/jquery-3.4.1.min.js:2:77295
+postOfferRecord@https://content-jcp.getmetrical.com/js/metrical.abandon.cart.js:1:107212
+saveStateAndSync@https://content-jcp.getmetrical.com/js/metrical.abandon.cart.js:1:115330
+executeEngagementLoop/</<@https://content-jcp.getmetrical.com/js/metrical.abandon.cart.js:1:113461
+jf/Promise.prototype.then/<@https://cdn.quantummetric.com/qscripts/quantum-jcp.js:168:179
+[Parent 12036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 305: TypeError: this._builder is undefined
+[Parent 12036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":488,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1838","resource:///modules/BrowserGlue.jsm:BG_observe:1002","chrome://browser/content/browser.js:_delayedStartup:2132"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1610690236065	Marionette	INFO	Stopped listening on port 54770
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,18 @@
+1610689684302	geckodriver	INFO	Listening on 127.0.0.1:53719
+1610689687313	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileuE1oPo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610689693842	Marionette	INFO	Listening on port 53728
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610689694178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610689694231	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: https://www.static-jcpenney.com/prod4/yoda-site-components/2018.0.18/dll/site_components.client.dll.js, line 1: TypeError: e is undefined
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+[Child 12588, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1610689749976	Marionette	INFO	Stopped listening on port 53728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

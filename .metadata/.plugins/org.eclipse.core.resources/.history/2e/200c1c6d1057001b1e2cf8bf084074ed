@@ -1,0 +1,26 @@
+
+*** Settings ***
+Library    OperatingSystem    
+Library    SeleniumLibrary    
+Library    OperatingSystem    
+*** Test Cases ***
+TC1_ValidCredentialTest
+        
+     Append To Environment Variable    Path   ${OUTPUT_DIR}${/}driver  
+     Open Browser    https://www.db4free.net/   browser=ff
+     Maximize Browser Window  
+     Set Selenium Implicit Wait    30s 
+     Click Element    //b[contains(text(),'phpMyAdmin')]    
+     sleep   5s
+     ${title}     Get Title
+     Log To Console    ${title}    
+     Switch Window      phpMyAdmin
+     Input Text    input_username    admin    
+     Input Password     input_password     admin123
+     Click Element    input_go    
+     #get errror and print
+     #Close Window
+     ${errortext}     Get Text     //div[contains(text),'Cannot')]
+     Log To Console    ${errortext}    
+     log      ${errortext}
+     Close Window 

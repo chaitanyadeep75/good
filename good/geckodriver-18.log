@@ -1,0 +1,22 @@
+1610514020271	geckodriver	INFO	Listening on 127.0.0.1:50448
+1610514023295	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileQKIHfK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610514029727	Marionette	INFO	Listening on port 50456
+1610514030151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610514030575	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://magento.com/ line 1551 > injectedScript, line 4: TypeError: window.optimizely is undefined
+JavaScript error: https://magento.com/sites/default/files8/js/optimized/js_6PLu4riE-2dcDQ5QPzuCrl_1JQZAazd43aQw_AQJYoY.NROEkYn4usvpqyPEG8aHOOdMITfAvO-0w6gjNNafhMw.js?qleaka, line 8: TypeError: id is undefined
+[GFX1-]: D3D11 swap chain preset failed 0x80070057
+[GFX1]: [CompositorD3D11] error code: 0x80070057, 0, 0
+1610514043690	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.46704162.484050222.1610514033-1838953064.1610514033, line 407: SyntaxError: redeclaration of const ssoEmailDomains
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+1610516759730	Marionette	INFO	Stopped listening on port 50456

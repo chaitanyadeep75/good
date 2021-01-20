@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.robotframework.ide.tableditor.activePage./good/magento_suite/login_test.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./good/openemr_suite/login_tests.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./good/hdfc/login_test.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./good/redbus/login_tests.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./good/medibuddy/login_tests.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./good/royal/carribean_login.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./good/goog/gooog_login.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/login_suite/verify_invalid_credentials.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/common_functionality.resource">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/pages/Login_page_resource.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/pages/DashboardPage_resource.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/pages/LognPage.resource">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/pages/Dashbooard_Page.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/pages/Logoin_page.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/pages/Login_page.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./good/demoemr/emr_login.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/pages/Dashboard_page.resource">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/pages/Login_page.resource">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/addpatient_tests.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/pages/PatientFinderPage.resource">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./OpenEmrproject/Resource/pages/SearchOrAddPatientpage.resource">
+		<item key="activePage" value=""/>
+	</section>
+</section>

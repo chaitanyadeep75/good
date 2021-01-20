@@ -1,0 +1,14 @@
+*** Settings ***
+Library    OperatingSystem    
+Library    SeleniumLibrary    
+*** Test Cases ***
+TC1_ValidCredentialTest
+     Log To Console    ${OUTPUT_DIR}${/}driver    
+     Append To Environment Variable    Path   ${OUTPUT_DIR}${/}driver  
+     Open Browser    https://www.redbus.in/   browser=ff
+     Maximize Browser Window   
+      Click Element      id=i-icon-profile
+     Click Element       id=signInLink
+     Select Frame       xpath=//iframe[@class="modalIframe"]      
+     Input Text      id=mobileNoInp       9963225519 
+     Click Element    id=otp-container    

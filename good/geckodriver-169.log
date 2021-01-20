@@ -1,0 +1,2620 @@
+1610773524905	geckodriver	INFO	Listening on 127.0.0.1:53461
+1610773527828	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileTzk8de"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610773537134	Marionette	INFO	Listening on port 53470
+1610773537475	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610773537530	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: https://tags.tiqcdn.com/utag/rccl/gdp/prod/utag.538.js?utv=ut4.46.201910101911, line 5: ReferenceError: KAMPYLE_ONSITE_SDK is not defined
+JavaScript error: https://sb.monetate.net/img/1/388/3250036.js, line 80: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: GFX: D3D11 skip BeginFrame with device-removed.
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]:[GFX1-]: (gfxWindowsPlatform) Detected device reset : 3
+(g[GFX1-]: (gfxWindowsPlatform) scheduled device update.f
+xWindowsPlatform) Detected [dGeFvXi1c-e] :r e(sgeftx:W i3n
+dowsPlatform) Detected device reset: 3[
+GFX1-]: (gfxWindowsPlatform) scheduled device update.[
+GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3[
+GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 3
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
